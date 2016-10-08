@@ -24,7 +24,7 @@ function inifiniteArray(length, original) {
 				var n = randomIntFromInterval(1,length);
 				return n;
 			}
-	    }
+	    } 
 	});
 }
 inifiniteArray(10);
